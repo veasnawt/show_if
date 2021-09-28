@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
-* ShowIf allows you to decide to hide or show Widgets easier
+* Added Widget childIfFalse, when condition == false; can show another widget rather than hide it
